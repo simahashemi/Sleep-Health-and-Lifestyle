@@ -85,6 +85,18 @@ Explored interactions between 3+ features using colored boxplots and faceted vis
 
 ---
 
+## 5. Dimensionality Reduction: PCA
+
+To reduce complexity and explore latent patterns in numeric variables, PCA (Principal Component Analysis) was applied.
+
+- **Features Used**: Age, Sleep Duration, Sleep Quality, Stress Level, Physical Activity Level, Daily Steps, Heart Rate, Systolic and Diastolic Blood Pressure.
+- The data was standardized before applying PCA.
+- The scree plot showed that the first 2 principal components explain over X% of the total variance.
+
+The PCA biplot reveals strong contribution from stress level and sleep quality to the first component, while heart rate and blood pressure load more strongly on the second component.
+
+![PCA_biplot](images/PCA_biplot.png)
+---
 ## ✅ Key Insights
 
 - Sleep quality improves with longer sleep duration and lower stress levels.
