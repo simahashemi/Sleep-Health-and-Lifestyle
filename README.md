@@ -6,7 +6,7 @@ This project analyzes how various health and lifestyle factors affect sleep qual
 
 ## 📁 Dataset
 
-**Source**: [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/equbalu/sleep-health-and-lifestyle-dataset) (Kaggle)  
+**Source**: [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) (Kaggle)  
 **Size**: 374 records of adults  
 **Features** include:
 - Age, Gender, BMI Category
