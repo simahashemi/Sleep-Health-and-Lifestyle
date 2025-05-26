@@ -101,3 +101,10 @@ Explored interactions between 3+ features using colored boxplots and faceted vis
   `ggplot2`, `dplyr`, `tidyr`, `GGally`, `ggcorrplot`, `readr`
 
 ---
+
+## 🙏 Acknowledgements
+
+- Dataset: [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+- Visualizations were created as part of a personal data science portfolio project in R.
+
+---
